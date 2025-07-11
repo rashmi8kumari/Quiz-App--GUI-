@@ -95,11 +95,4 @@ Developed by Rashmi kumari
 Feel free to fork, improve, or contribute ⭐
 
 📬 Contact
-For suggestions or collaborations: [your-email@example.com]
-
-
-✅ **What to do next:**
-1. Create `README.md` file in your project directory
-2. Paste the content above
-3. Replace `"Your Name"` and `"your-email@example.com"` with your actual name/email
-4. You’re ready to push to GitHub!
+For suggestions or collaborations: rashmi8shahi@gmail.com
