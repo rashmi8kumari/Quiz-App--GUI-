@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which language is primarily used for web development?",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Who developed the Python language?",
+    "options": [
+      "James Gosling",
+      "Guido van Rossum",
+      "Dennis Ritchie",
+      "Bjarne Stroustrup"
+    ],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": [
+      "JavaScript",
+      "HTML",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "HTML"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Control Program Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Option 1 Hyper Text Markup Language",
+      "Option 2 Hyper Tolerant Marks Language",
+      "Option 3 High Tech Tech Markup Language",
+      "Option 4 Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  }
+]
